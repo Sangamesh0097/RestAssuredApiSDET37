@@ -1,0 +1,10 @@
+{"empName":"rama",
+"empId":141,
+"empEmail":["ram@gmail.com","sita@gmail.com"],
+"phoneNumber":[225566997,998877441],
+"spouse":{
+"spName":"sita",
+"spEmail":"sita@gmail.com",
+"id":420,
+"phNumber":333366699}
+}
